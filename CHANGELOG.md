@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.1] - 2026-10-25
+### Added
+- Red Rock Pass note in Stargazing section with link to Recreation.gov purchase page.
+
 ## [1.1.0] - 2026-10-25
 ### Added
 - Stargazing section: International Dark Sky Community info, three DIY viewing spots (Airport Mesa, Two Trees, Bell Rock Pathway), and moon-phase timing for the Nov 12–17 trip.
