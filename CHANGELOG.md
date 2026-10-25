@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.2] - 2026-10-25
+### Changed
+- Enhanced Red Rock Pass note in Stargazing section to explain pass is required for parking and that fees help maintain trails, facilities, and natural resources.
+
 ## [1.1.1] - 2026-10-25
 ### Added
 - Red Rock Pass note in Stargazing section with link to Recreation.gov purchase page.
