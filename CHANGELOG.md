@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.0] - 2026-10-25
+### Added
+- Dedicated Red Rock Pass section with comprehensive details (prices, purchase options, what it covers).
+- Red Rock Pass added to navigation.
+
+### Changed
+- Moved Red Rock Pass information from Stargazing section into its own dedicated section.
+- Added internal links to Red Rock Pass section from Stargazing (Airport Mesa, Bell Rock Pathway), Sights (Airport Mesa sunset), and Rides (trailheads note).
+- All relevant sections now include both internal reference links and direct purchase links.
+
 ## [1.1.2] - 2026-10-25
 ### Changed
 - Enhanced Red Rock Pass note in Stargazing section to explain pass is required for parking and that fees help maintain trails, facilities, and natural resources.
