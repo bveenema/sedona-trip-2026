@@ -1,12 +1,19 @@
 # Changelog
 
+## [1.3.1] - 2026-10-26
+### Changed
+- Updated cave entry links from generic "Source" to more descriptive "See photos & details" and "Forest Service details" text to better indicate what users will find at each link.
+
 ## [1.3.0] - 2026-10-26
 ### Added
 - Caves section with six ranked cave/cliff dwelling destinations: Birthing Cave, Fay Canyon Arch, Honanki Heritage Site, Palatki Heritage Site, Soldier Pass Cave, and Subway Cave (Boynton Canyon).
-- Each cave entry includes distance, difficulty details, best timing, parking/shuttle info, Red Rock Pass links, and source links.
+- Each cave entry includes distance, difficulty details, best timing, parking/shuttle info, Red Rock Pass links, and reference links.
 - Mountain bike access notes for each cave, specifying wilderness boundaries and where bikes can/cannot go.
 - November timing note for sunset and slickrock safety.
 - Caves added to navigation between Sights and Stargazing.
+
+### Note
+- No images added: properly licensed (CC/public domain) photos specifically showing these caves could not be found on Wikimedia Commons, Flickr CC, or US government sources. Links to reliable photo sources provided instead.
 
 ## [1.2.0] - 2026-10-25
 ### Added
